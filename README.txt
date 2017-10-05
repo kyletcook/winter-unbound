@@ -1,1 +1,0 @@
-Files created to produce the UnBound Back of Book listings for Winter 2017-18. Using both traditional transposition method, and new Pixie Dust workflow. Refer to earlier commits to undo any embellishments. Compare work on this project from October 2017.
